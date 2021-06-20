@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    text-align: center;
+}
+
+
+body {
+    background-color: red;
+    text-align: center;
+}
+
+article {
+    background-color: hsl(244, 38%, 16%)
+    
+}
+
+ul {
+    display: block;
+    
+}
+

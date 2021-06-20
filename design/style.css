@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
+body {
+    background-color: hsl(233, 47%, 7%);
+    text-align: center;
+}
+
+article {
+    background-color: hsl(244, 38%, 16%);
+    display: inline-block; 
+
+}
+
+img {
+    float: right;
+}
+
+ul {
+    list-style-position: inside;
+    color: hsla(0, 0%, 100%, 0.6);
+    
+}
+
+li {
+    display: inline-block;
+}
+
+h1 {
+    color: hsl(0, 0%, 100%);
+}
+
+p {
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
